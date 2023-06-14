@@ -89,6 +89,6 @@ p {
     height: 140px;
   }
   .photo:hover {
-    transform: scale(4);
+    transform: scale(2);
   }
 }

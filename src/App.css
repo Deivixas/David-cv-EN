@@ -73,3 +73,22 @@ p {
   flex: 1;
   padding: 20px;
 }
+
+@media screen and (max-width: 768px) {
+  .cv-container {
+    max-width: 100%;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  }
+  .cv-column {
+    padding: 10px;
+  }
+  .photo {
+    width: 100px;
+    height: 140px;
+  }
+  .photo:hover {
+    transform: scale(4);
+  }
+}

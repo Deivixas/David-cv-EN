@@ -70,7 +70,7 @@ function App() {
       <section >
             <h2>About Me</h2>
             <p >
-            As a passionate front-end developer, I excel in crafting user-friendly web applications using React, JavaScript, and CSS. With a proactive learning approach, I stay updated with the latest advancements in web development, enabling me to adapt swiftly and deliver innovative solutions. I thrive on pushing boundaries, creating memorable online experiences, and collaborating with forward-thinking teams. Let's create something exceptional together!
+            As a passionate front-end developer, I excel in crafting user-friendly web applications using React, JavaScript, and CSS. With a proactive learning approach, I stay updated with the latest advancements in web development, enabling me to adapt swiftly and deliver innovative solutions. I thrive on pushing boundaries, creating memorable online experiences, and collaborating with forward-thinking teams. I am motivated to learn and improve in this field.
             </p>
           </section>
           <section >
